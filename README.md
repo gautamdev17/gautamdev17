@@ -1,1 +1,8 @@
-![Gautam's GitHub stats](https://vercel.app)
+### 📊 My GitHub Stats
+
+![Stats](https://vercel.app)
+
+### 🚀 Quick Metrics
+
+✨ **Followers:** ![Followers](https://shields.io)
+🛠 **Total Repos:** ![Repos](https://shields.io)
