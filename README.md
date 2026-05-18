@@ -1,18 +1,13 @@
-# Hi there, I'm Gautam! 👋
+# 🛠️ Tech Stack & Tools
 
-### 🛠️ Hardware & Software Stack
-* **Hardware Description Languages:** Verilog, VHDL
-* **Languages:** Python, C++, C
-* **Interconnects & Architecture:** Network-on-Chip (NoC), CPU Architecture
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
----
+## 📈 Activity Metrics
 
-### 🚀 Featured Projects
-* 📟 **[cpu-from-scratch](https://github.com)** - Building CPUs from the ground up.
-* 🌐 **[4x4-Network-On-Chip-Router](https://github.com)** - Interconnects between processing engines realized in hardware.
-
----
-
-### 📬 Connect with Me
-* 💼 **LinkedIn:** [gautam-devaraj-0332b7370](https://linkedin.com)
-* 📧 **Email:** gautamd.nxt@gmail.com
+<p align="left">
+  <img src="https://vercel.app" alt="Gautam's Activity Graph" width="100%" />
+</p>
